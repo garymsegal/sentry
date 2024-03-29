@@ -12,3 +12,4 @@ pytest-sentry==0.1.9
 pytest-rerunfailures==9.1.1
 responses==0.10.12
 msgpack-types==0.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
